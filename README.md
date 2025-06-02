@@ -1,7 +1,7 @@
 Paper Reference:
 
-Title: A novel prediction based portfolio optimization model using deep learning
-**Authors: Yilin Ma, Weizhong Wang, Qianting Ma**
+Title: A novel prediction based portfolio optimization model using deep learning<br>
+**Authors: Yilin Ma, Weizhong Wang, Qianting Ma**<br>
 Journal: Computers & Industrial Engineering, Volume 177, 2023, 109023
 
 This repository implements the AE+LSTM+OMEGA model, a novel prediction-based portfolio optimization framework that 
