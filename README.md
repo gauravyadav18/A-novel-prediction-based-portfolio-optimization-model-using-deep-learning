@@ -10,4 +10,4 @@ Key Features:
 * Combines unsupervised learning (AE) and time series forecasting (LSTM).
 * Integrates a robust Omega ratio-based optimization for portfolio construction.
 * Outperforms equally-weighted and existing state-of-the-art prediction-based portfolio strategies.
-
+ Download Paper PDF:  [(PDF)]([https://doi.org/10.1016/j.cie.2023.109023](https://www.sciencedirect.com/science/article/pii/S0360835223000475?casa_token=CGwPkcOTMvcAAAAA:dt-1bn_Pq4Od0iNFlVrlYxgDV0EbNXvrGyA46-SsI8m_LPsJkG2UrxXN0aahwbEf7hKxI1wuog))
